@@ -33,4 +33,4 @@ shutdown.exe /r /t 00
 
 
 
-Save as file name win11.cmd and save to desktop run as administoter
+Save as file name "win11.cmd" and save to desktop run as administoter

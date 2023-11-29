@@ -20,4 +20,4 @@ pause >nul
 
 
 
-Save as file name win11.cmd and save to desktop run as administoter
+Save as file name "win10.cmd" and save to desktop run as administoter
